@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
